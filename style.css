@@ -1,0 +1,46 @@
+body {
+    background: #FF5BAE;
+    margin: 0;
+    box-sizing: border-box;
+    padding: 15px;
+    border: 10px solid #fff;
+}
+
+header h1 {
+    color: #FFE4CF;
+    font-size: 2.5rem;
+    padding: 15px;
+    text-align: center;
+}
+
+.cards {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.cards .card {
+    width: 40%;
+    text-align: center;
+}
+
+.card .left {
+    float: left;
+}
+
+.card .right {
+    float: right;
+}
+
+.cards .card img {
+    height: 200px;
+}
+
+
+
+footer {
+    color: #fff;
+    padding: 15px;
+    font-size: 1.5rem;
+    text-align: right;
+    clear: both;
+}
