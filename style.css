@@ -23,11 +23,11 @@ header h1 {
     text-align: center;
 }
 
-.cards .card .left {
+.cards .left {
     float: left;
 }
 
-.cards .card .right {
+.cards .right {
     float: right;
 }
 
