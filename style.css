@@ -61,4 +61,8 @@ footer {
     .cards .card img {
         height: 400px;
     }
+
+    footer {
+        font-size: 2rem;
+    }
 }
